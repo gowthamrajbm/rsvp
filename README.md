@@ -1,2 +1,0 @@
-# rsvp
-Created with CodeSandbox
